@@ -31,7 +31,7 @@ const Address = () => {
     <div className='mainarea'>
     <Header/>
     <div className="address">
-        <h3>Your addresAddress</h3>
+        <h3>Your Address</h3>
         <div className="add-sec-area">
             {
             allAdress.length>0?(allAdress.map((address,i)=>(
