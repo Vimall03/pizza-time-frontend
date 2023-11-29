@@ -83,7 +83,7 @@ const loadScripts=(src)=>{
 
 
 const options = {
-  "key":"rzp_test_TQ6gnNZ1PZt0Cu", // Enter the Key ID generated from the Dashboard
+  "key":"rzp_test_NYUPSveWybUfyq", // Enter the Key ID generated from the Dashboard
    "currency":'INR',
   //  "amount":data?.price*100,
    "amount":totalPrice*100,
